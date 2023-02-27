@@ -5,11 +5,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Customers.Controllers
+namespace Calculator.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class CustomersController : ControllerBase
+    public class CalculatorController : ControllerBase
     {
         [HttpGet]
         public IActionResult Get()
