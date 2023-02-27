@@ -1,11 +1,12 @@
 ﻿# Coding Exercise
-We know your time is important so we do not expect you to spend more than two hours on this exercise.
+We know your time is important, so we do not expect you to spend more than two hours on this exercise.
 ## Your Assignment
-Using C#, create an REST API for tracking a list of customers. We would like for your application to be able to do the following:
-* create a new customer,
-* list existing customers by name,
-* update an existing customer,
-* and remove a customer.
+Using C#, create a REST API for doing simple arithmetic. We would like for your application to be able to do the following:
+* addition,
+* subtraction,
+* multiplication,
+* division.
+
 * You should also provide tests that prove your code works as expected.
 ## How to complete the activity:
 1. Fork this repo.
