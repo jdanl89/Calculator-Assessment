@@ -4,4 +4,9 @@
     <TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\calculator.js" />
+    <None Include="wwwroot\Index.html" />
+  </ItemGroup>
+
 </Project>

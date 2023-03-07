@@ -40,6 +40,10 @@ namespace Calculator
             {
                 endpoints.MapControllers();
             });
+
+            app.UseDefaultFiles();
+
+            app.UseStaticFiles();
         }
 
         // This method gets called by the runtime. Use this method to add services to the container.
